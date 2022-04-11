@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "string",
+    "Category": null,
+    "SerialNumber": 1,
+    "BuyingPrice": 0.0,
+    "SellingPrice": 1.0,
+    "Profit": 1.0
+  },
+  {
+    "Name": "string",
+    "Category": null,
+    "SerialNumber": 2,
+    "BuyingPrice": 10.0,
+    "SellingPrice": 12.0,
+    "Profit": 2.0
+  },
+  {
+    "Name": "string",
+    "Category": null,
+    "SerialNumber": 23,
+    "BuyingPrice": 0.0,
+    "SellingPrice": 123.0,
+    "Profit": 123.0
+  },
+  {
+    "Name": "string",
+    "Category": null,
+    "SerialNumber": 3,
+    "BuyingPrice": 10.0,
+    "SellingPrice": 20.0,
+    "Profit": 10.0
+  },
+  {
+    "Name": "string",
+    "Category": null,
+    "SerialNumber": 4,
+    "BuyingPrice": 10.0,
+    "SellingPrice": 30.0,
+    "Profit": 20.0
+  },
+  {
+    "Name": "New",
+    "Category": "Chair",
+    "SerialNumber": 5,
+    "BuyingPrice": 10.0,
+    "SellingPrice": 20.0,
+    "Profit": 10.0
+  },
+  {
+    "Name": "string",
+    "Category": "string",
+    "SerialNumber": 11,
+    "BuyingPrice": 0.0,
+    "SellingPrice": 10.0,
+    "Profit": 10.0
+  },
+  {
+    "Name": "string",
+    "Category": "string",
+    "SerialNumber": 11,
+    "BuyingPrice": 0.0,
+    "SellingPrice": 10.0,
+    "Profit": 10.0
+  },
+  {
+    "Name": "string",
+    "Category": "string",
+    "SerialNumber": 0,
+    "BuyingPrice": 0.0,
+    "SellingPrice": 0.0,
+    "Profit": 0.0
+  },
+  {
+    "Name": "string",
+    "Category": "string",
+    "SerialNumber": 20,
+    "BuyingPrice": 0.0,
+    "SellingPrice": 20.0,
+    "Profit": 20.0
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "adadas",
+    "NRIC": null,
+    "UserID": 0,
+    "DOB": "01/01/0001",
+    "Age": 0
+  },
+  {
+    "Name": "Bob",
+    "NRIC": "1234567890",
+    "UserID": 1,
+    "DOB": "01/01/0001",
+    "Age": 0
+  },
+  {
+    "Name": "Marl",
+    "NRIC": "1234567890",
+    "UserID": 2,
+    "DOB": "01/01/0001",
+    "Age": 0
+  }
+]
